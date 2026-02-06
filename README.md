@@ -4,7 +4,7 @@ Tenho 28 anos e sou **Desenvolvedor Full Stack em formação**.
 Desde que comecei a estudar desenvolvimento web, me apaixonei pela área e decidi seguir carreira profissionalmente em tecnologia.
 
 Atualmente estou focado em construir **projetos práticos**, evoluir minhas habilidades técnicas e aprender boas práticas de desenvolvimento.  
-Também curso **Engenharia de Software**, fortalecendo ainda mais minha base técnica.
+Também curso **Análise e desenvolvimento de Sistemas**, fortalecendo ainda mais minha base técnica.
 
 
 🎯 **Objetivo:** conquistar uma oportunidade de **estágio ou vaga júnior** em desenvolvimento de software.
