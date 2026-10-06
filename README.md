@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Elionai
 
-Tenho 29 anos e sou **Desenvolvedor Full Stack em formação**.  
+Tenho 29 anos e sou **Desenvolvedor Full Stack**.  
 Desde que comecei a estudar desenvolvimento web, me apaixonei pela área e decidi seguir carreira profissionalmente em tecnologia.
 
 Atualmente estou focado em construir **projetos práticos**, evoluir minhas habilidades técnicas e aprender boas práticas de desenvolvimento.  
